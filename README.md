@@ -1,7 +1,6 @@
 # JSClock
 <p>Js Clock é uma aplicação web desenvolvida a fim de</br>
-simular o funcionamento de um relógio.<p></br>
-
+simular o funcionamento de um relógio.<p>
 
 <p>Para isso, utilizei apenas de HTML, CSS e JavaScript.
 O desenvolvimento serviu como exercício pra meus estudos de JavaScript.</p>
